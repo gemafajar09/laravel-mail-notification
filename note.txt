@@ -1,0 +1,5 @@
+- php artisan notifications:table
+- buat scema database
+- php artisan migrate
+- php artisan make:notification "nama file untuk notification"
+- php artisan make:controller "nama file untuk notification"
